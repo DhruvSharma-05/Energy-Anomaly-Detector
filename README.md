@@ -1,5 +1,6 @@
 ﻿# Energy-Anomaly-Detector
 
+[![dashboard](https://img.shields.io/badge/Dashboard_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dhruvsharma-05.github.io/)
 ## Introduction
 This project focuses on predicting electrical energy output from a Combined Cycle Power Plant (CCPP) using ambient variables. The dataset is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant) and contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the plant was set to work with full load.
 
